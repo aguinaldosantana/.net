@@ -11,3 +11,16 @@ C:\Users\AguinaldoSantAnaJuni\source\repos\Solution\Calculadora\obj\Debug\netcor
 C:\Users\AguinaldoSantAnaJuni\source\repos\Solution\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
 C:\Users\AguinaldoSantAnaJuni\source\repos\Solution\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
 C:\Users\AguinaldoSantAnaJuni\source\repos\Solution\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csprojAssemblyReference.cache
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfoInputs.cache
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.AssemblyInfo.cs
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.exe
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.deps.json
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.json
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.runtimeconfig.dev.json
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.dll
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Calculadora\bin\Debug\netcoreapp3.1\Calculadora.pdb
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Calculadora\obj\Debug\netcoreapp3.1\Calculadora.genruntimeconfig.cache

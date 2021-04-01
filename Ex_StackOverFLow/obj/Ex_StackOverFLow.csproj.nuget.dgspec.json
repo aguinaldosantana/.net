@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\AguinaldoSantAnaJuni\\source\\repos\\Solution\\Ex_StackOverFLow\\Ex_StackOverFLow.csproj": {}
+    "C:\\Users\\AguinaldoSantAnaJuni\\Source\\Repos\\.net\\Ex_StackOverFLow\\Ex_StackOverFLow.csproj": {}
   },
   "projects": {
-    "C:\\Users\\AguinaldoSantAnaJuni\\source\\repos\\Solution\\Ex_StackOverFLow\\Ex_StackOverFLow.csproj": {
+    "C:\\Users\\AguinaldoSantAnaJuni\\Source\\Repos\\.net\\Ex_StackOverFLow\\Ex_StackOverFLow.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\AguinaldoSantAnaJuni\\source\\repos\\Solution\\Ex_StackOverFLow\\Ex_StackOverFLow.csproj",
+        "projectUniqueName": "C:\\Users\\AguinaldoSantAnaJuni\\Source\\Repos\\.net\\Ex_StackOverFLow\\Ex_StackOverFLow.csproj",
         "projectName": "Ex_StackOverFLow",
-        "projectPath": "C:\\Users\\AguinaldoSantAnaJuni\\source\\repos\\Solution\\Ex_StackOverFLow\\Ex_StackOverFLow.csproj",
+        "projectPath": "C:\\Users\\AguinaldoSantAnaJuni\\Source\\Repos\\.net\\Ex_StackOverFLow\\Ex_StackOverFLow.csproj",
         "packagesPath": "C:\\Users\\AguinaldoSantAnaJuni\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\AguinaldoSantAnaJuni\\source\\repos\\Solution\\Ex_StackOverFLow\\obj\\",
+        "outputPath": "C:\\Users\\AguinaldoSantAnaJuni\\Source\\Repos\\.net\\Ex_StackOverFLow\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",

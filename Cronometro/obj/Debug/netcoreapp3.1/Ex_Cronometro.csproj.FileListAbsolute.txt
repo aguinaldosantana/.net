@@ -11,3 +11,16 @@ C:\Users\AguinaldoSantAnaJuni\source\repos\Solution\Cronometro\obj\Debug\netcore
 C:\Users\AguinaldoSantAnaJuni\source\repos\Solution\Cronometro\obj\Debug\netcoreapp3.1\Ex_Cronometro.dll
 C:\Users\AguinaldoSantAnaJuni\source\repos\Solution\Cronometro\obj\Debug\netcoreapp3.1\Ex_Cronometro.pdb
 C:\Users\AguinaldoSantAnaJuni\source\repos\Solution\Cronometro\obj\Debug\netcoreapp3.1\Ex_Cronometro.genruntimeconfig.cache
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Cronometro\bin\Debug\netcoreapp3.1\Ex_Cronometro.exe
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Cronometro\bin\Debug\netcoreapp3.1\Ex_Cronometro.deps.json
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Cronometro\bin\Debug\netcoreapp3.1\Ex_Cronometro.runtimeconfig.json
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Cronometro\bin\Debug\netcoreapp3.1\Ex_Cronometro.runtimeconfig.dev.json
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Cronometro\bin\Debug\netcoreapp3.1\Ex_Cronometro.dll
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Cronometro\bin\Debug\netcoreapp3.1\Ex_Cronometro.pdb
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Cronometro\obj\Debug\netcoreapp3.1\Ex_Cronometro.csprojAssemblyReference.cache
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Cronometro\obj\Debug\netcoreapp3.1\Ex_Cronometro.AssemblyInfoInputs.cache
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Cronometro\obj\Debug\netcoreapp3.1\Ex_Cronometro.AssemblyInfo.cs
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Cronometro\obj\Debug\netcoreapp3.1\Ex_Cronometro.csproj.CoreCompileInputs.cache
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Cronometro\obj\Debug\netcoreapp3.1\Ex_Cronometro.dll
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Cronometro\obj\Debug\netcoreapp3.1\Ex_Cronometro.pdb
+C:\Users\AguinaldoSantAnaJuni\Source\Repos\.net\Cronometro\obj\Debug\netcoreapp3.1\Ex_Cronometro.genruntimeconfig.cache
